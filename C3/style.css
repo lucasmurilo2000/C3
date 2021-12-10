@@ -1,0 +1,28 @@
+body{
+    background: url("Background.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+.h1{
+    position: relative;
+    margin: 30px;
+    font-size: 70px;
+    line-height: 2px;
+    font-family: cursive;
+}
+.botao1{
+    font-family: cursive;
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    top: 180px;
+    left: 160px;
+}
+.info{
+    position: absolute;
+    top: 110px;
+    left:50px;
+    font-size: 20px;
+    font-family: cursive;
+    
+}
